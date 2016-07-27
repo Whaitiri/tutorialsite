@@ -1,7 +1,13 @@
-<style>
+
 	img {
 		float: right;
-		margin: 0 0 10px 10px;
-		border: 1px;
 	}
-</style>
+
+	.bodytext {
+		color: purple;
+		vertical-align: text-bottom;
+	}
+
+	h1 {
+		text-align: center;
+	}
