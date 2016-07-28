@@ -3,11 +3,26 @@
 		float: right;
 	}
 
+	body {
+		margin: 0;
+	}
+
 	.bodytext {
+		margin-left: 10%;
 		color: purple;
 		vertical-align: text-bottom;
 	}
 
 	h1 {
 		text-align: center;
+	}
+
+	.side-nav {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		width: 10%;
+		height: 100%;
+		position: fixed;
+		overflow: auto;
 	}
